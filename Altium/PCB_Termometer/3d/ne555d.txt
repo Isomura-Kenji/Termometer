@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-14012020-054288";"";
+"REFERENCE";"NE555D";"";
+"TraceParts.PartTitle";"Integrated Circuit Small Outline Packages - NE555D, NE555DG4, NE555DR";"";
+"TraceParts.InstanceId";"33-14012020-054288DVMMP46G7E22F0EDUWABS13QP";"";
+"DESIGN";"Integrated Circuit Small Outline Packages - NE555D";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Texas Instruments";"";
+"TraceParts.PartVersion";"1.2.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TEXAS_INSTRUMENTS:33-14012020-054288";"";
